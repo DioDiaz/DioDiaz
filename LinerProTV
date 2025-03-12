@@ -37,7 +37,7 @@ https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 
-#EXTINF:-1,TVmia
+#EXTINF:-1,Panamericana 1
 https://dsr.ride.com.ar/tvmia/an29/playlist.m3u8
         
 #EXTINF:-1,PBO
@@ -45,105 +45,63 @@ https://live-evg25.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 
 #EXTINF:-1,Panamericana
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 5,
-    title: ""ATV",
-    img: "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829818294/70886e5e799d_640_360.png",
-    sources: [
-      {
-        id: 1,
-        name: "BITEL",
-        src: "https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8",
-        type: "application/x-mpegurl",
-      },
-      {
-        id: 2,
-        name: "DSR",
-        src: "https://dsr.ride.com.ar/tvmia/an30/playlist.m3u8",
-        type: "application/x-mpegurl",
-      },
-    ],
-    src: "https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 10,
-    title: "ATV +",
-    img: "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829811800/84e17b3b3eaf_640_360.png",
-    src: "https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 11,
-    title: "ATV Sur",
-    img: "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895367519/57dbdf5188f3_640_360.png",
-    src: "https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/playlist.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 12,
-    title: "La Tele",
-    img: "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_640_360.png",
-    src: "https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 13,
-    title: "Karibeña TV",
-    img: "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/02/173809307073/82d4175843c5_640_360.jpg",
-    src: "https://live-evg25.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 14,
-    title: "Global",
-    img: "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829804503/8dfc28d8c469_640_360.png",
-    src: "https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 15,
-    title: "FMH Movies",
-    img: "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_640_360.png",
-    src: "https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 16,
-    title: "FMH Kids",
-    img: "https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_640_360.png",
-    src: "https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 17,
-    title: "Nativa",
-    img: "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/173583565692/7885cf39a6b2_640_360.png",
-    src: "https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 18,
-    title: "Top Latino TV",
-    img: "https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_640_360.jpg",
-    src: "https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 19,
-    title: "Star Channel",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-62.png",
-    src: "https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10273.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 20,
-    title: "Space",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-48.png",
-    src: "https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10269.m3u8",
-    type: "application/x-mpegurl",
+
+#EXTINF:-1,ATV
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
+   
+#EXTINF:-1,atv 2
+https://dsr.ride.com.ar/tvmia/an30/playlist.m3u8
+   
+
+#EXTINF:-1,ATV +
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
+
+
+#EXTINF:-1,ATV Sur
+https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/playlist.m3u8
+    
+#EXTINF:-1,La Tele
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+ 
+
+#EXTINF:-1,Karibeña TV
+https://live-evg25.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8
+    
+
+#EXTINF:-1,Global
+https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
+
+
+#EXTINF:-1,FMH Movies
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
+ 
+
+#EXTINF:-1,FMH Kids
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
+ 
+
+#EXTINF:-1,Nativa
+https://live-evg25.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
+ 
+
+#EXTINF:-1,Top Latino TV
+https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
+
+
+
+
+#EXTINF:-1,Star Channel
+https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10273.m3u8
+   
+
+
+#EXTINF:-1,Space
+https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10269.m3u8
+   
+
+
+
+type: "application/x-mpegurl",
   },
   {
     id: 21,
