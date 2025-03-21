@@ -101,104 +101,51 @@ https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10269.m3u8
 
 
 
-type: "application/x-mpegurl",
-  },
-  {
-    id: 21,
-    title: "Studio Universal",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-59.png",
-    src: "https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10270.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 22,
-    title: "TNT",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-61.png",
-    src: "https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10272.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 23,
-    title: "TNT Series",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-60.png",
-    src: "https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10271.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 24,
-    title: "CineCanal",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-63.png",
-    src: "https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10274.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 25,
-    title: "CineMax",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-64.png",
-    src: "https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10275.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 26,
-    title: "Paramount",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-66.png",
-    src: "https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10276.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 27,
-    title: "Golden",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-69.png",
-    src: "https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10277.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 28,
-    title: "Golden Edge",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-70.png",
-    src: "https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10278.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 29,
-    title: "HBO",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-71.png",
-    src: "https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10279.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 30,
-    title: "HBO 2",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-72.png",
-    src: "https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10280.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 31,
-    title: "HBO Plus",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-73.png",
-    src: "https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10281.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 32,
-    title: "HBO Family",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-74.png",
-    src: "https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10282.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 33,
-    title: "Sony Channel",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-75.png",
-    src: "https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10283.m3u8",
-    type: "application/x-mpegurl",
-  },
-  {
-    id: 34,
-    title: "Warner Channel",
-    img: "https://streamplayweb.com/wp-content/uploads/2024/02/jac-76.png",
-    src: "https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10284.m3u8",
-    type: "application/x-mpegurl",
-  },
-];
+#EXTINF:-1,Studio Universal
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10270.m3u8
+
+#EXTINF:-1,TNT
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10272.m3u8
+
+
+#EXTINF:-1,TNT Series
+https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10271.m3u8
+    
+#EXTINF:-1,CineCanal
+https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10274.m3u8
+   
+
+#EXTINF:-1,CineMax
+https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10275.m3u8
+    
+#EXTINF:-1,Paramount
+https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10276.m3u8
+   
+#EXTINF:-1,Golden
+https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10277.m3u8
+    
+
+#EXTINF:-1,Golden Edge
+https://jactvpro.xyz/live/Upb93ECM5B/RRzkDRt6w8/10278.m3u8
+    
+#EXTINF:-1,HBO
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10279.m3u8
+  
+
+#EXTINF:-1,HBO 2
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10280.m3u8
+   
+#EXTINF:-1,HBO Plus
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10281.m3u8
+   
+
+#EXTINF:-1,HBO Family
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10282.m3u8
+    
+
+#EXTINF:-1,Sony Channel
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10283.m3u8
+   
+#EXTINF:-1,Warner Channel
+https://jactvpro.xyz:443/live/Upb93ECM5B/RRzkDRt6w8/10284.m3u8
+    
