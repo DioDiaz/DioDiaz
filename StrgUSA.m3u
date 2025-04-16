@@ -13,18 +13,10 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e54187aae660e00093561d6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=167&terminate=false&userId= 
 
 
-#DESCRIPTION Game Show Central
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8  ame Show Network East
-#DESCRIPTION Game Show Network East
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516547446.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/547446.ts:MY 9 New York
-#DESCRIPTION MY 9 New York
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//4.59.210.197%3a8815/udp/127.0.0.1%3a6009:NBC 4 Los Angeles
-#DESCRIPTION NBC 4 Los Angeles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516561090.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/561090.ts:NBC 4 Los Angeles (#)
-#DESCRIPTION NBC 4 Los Angeles (#)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516556940.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/556940.ts:NBC 4 New York
-#DESCRIPTION NBC 4 New York
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8:NBC LX
+#EXTINF:-1,NBC LX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8 
+
+
 #DESCRIPTION NBC LX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:
 #DESCRIPTION PBS America
