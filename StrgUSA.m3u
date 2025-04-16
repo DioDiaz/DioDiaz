@@ -1,7 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1,ABC 7 New York
-https://67317646516549694.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/549694.ts
+https://67317646516549694.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/54969
+
+#EXTINF:-1,PBS
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
 #DESCRIPTION ABC New York (#)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516561004.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/561004.ts:ABC 7 Los Angeles
