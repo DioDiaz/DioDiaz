@@ -3,37 +3,18 @@
 #EXTINF:-1,ABC 7 New York
 https://67317646516549694.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/54969
 
-#EXTINF:-1,PBS
+#EXTINF:-1,PBS kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 
-#DESCRIPTION ABC New York (#)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516561004.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/561004.ts:ABC 7 Los Angeles
-#DESCRIPTION ABC 7 Los Angeles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516559415.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/559415.ts:Bravo
-#DESCRIPTION Bravo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8:Buzzr
-#DESCRIPTION Buzzr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buzzr-roku-us.amagi.tv/playlist.m3u8:Buzzr (#)
-#DESCRIPTION Buzzr (#)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516556856.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/556856.ts:CBS 2 Los Angeles
-#DESCRIPTION CBS 2 Los Angeles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//4.59.210.197%3a8815/udp/127.0.0.1%3a6008:CBS 9 Los Angeles
-#DESCRIPTION CBS 9 Los Angeles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516553010.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/553010.ts:CBS 2 New York
-#DESCRIPTION CBS 2 New York
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516544527.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/544527.ts:Court TV
-#DESCRIPTION Court TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516537314.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/537314.ts:CW
-#DESCRIPTION CW
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516551600.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/551600.ts:CW 21 Birmingham
-#DESCRIPTION CW 21 Birmingham
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516544578.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/544578.ts:FOX Los Angeles
-#DESCRIPTION FOX Los Angeles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516544583.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/544583.ts:FOX 5 New York
-#DESCRIPTION FOX 5 New York
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e54187aae660e00093561d6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=167&terminate=false&userId=:Game Show Central
+#EXTINF:-1,PBS America
+https:https%3a//pbs-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Game Show Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e54187aae660e00093561d6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=167&terminate=false&userId= 
+
+
 #DESCRIPTION Game Show Central
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8:Game Show Network East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8  ame Show Network East
 #DESCRIPTION Game Show Network East
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516547446.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/547446.ts:MY 9 New York
 #DESCRIPTION MY 9 New York
@@ -45,7 +26,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #DESCRIPTION NBC 4 New York
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8:NBC LX
 #DESCRIPTION NBC LX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pbs-samsunguk.amagi.tv/playlist.m3u8:PBS America
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:
 #DESCRIPTION PBS America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_122/amlst%3a201814-2122456/playlist.m3u8:PBS Create
 #DESCRIPTION PBS Create
