@@ -16,11 +16,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e0009
 #EXTINF:-1,NBC LX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8 
 
+#EXTINF:-1,PBS Create
+https://2-fss-1.streamhoster.com/pl_122/amlst%3a201814-2122456/playlist.m3u8 
 
-#DESCRIPTION NBC LX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:
-#DESCRIPTION PBS America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_122/amlst%3a201814-2122456/playlist.m3u8:PBS Create
+
+#EXTINF:-1,TCM
+https://67317646516554984.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/554984.ts 
+
+
 #DESCRIPTION PBS Create
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1315484/playlist.m3u8:PBS KET 2
 #DESCRIPTION PBS KET 2
@@ -40,7 +43,7 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #DESCRIPTION Syfy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516559492.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/559492.ts:TBS
 #DESCRIPTION TBS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516554984.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/554984.ts:TCM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a
 #DESCRIPTION TCM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//67317646516544824.ot0711.xyz%3a80/play/mi614192/bgNu94QnWs/544824.ts:TNT
 #DESCRIPTION TNT
