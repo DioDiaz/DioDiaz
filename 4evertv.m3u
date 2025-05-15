@@ -31,8 +31,7 @@ http://forevertv.me:8080/live/1111aaaa/NAoJnPXzVw1beL/142755.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
 http://forevertv.me:8080/live/223344/556677/106636/142755.m3u8
 
-#EXTINF:-1 ,Bein 2 HD
+#EXTINF:-1 ,Sky HD
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x720
-http://forevertv.me:8080/live/261073195577424/t5RfIGXvth/142737.m3u8
-
+http://forevertv.me:8080/live/arnietelford/BGGET33Ewn/33639.m3u8
 
